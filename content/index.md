@@ -1,38 +1,39 @@
 ---
-title: Welcome to Intelligent Staffing Systems
+name: My Calisthenics Journey
 ---
 
-Welcome to the digital garden for Intelligent Staffing Solutions! 
-We are passionate about customized AI business solution that are capable of managing client interactions.
+Welcome to my personal calisthenics progress tracker. This page documents my journey as I build strength, flexibility, and endurance through bodyweight exercises. Join me as I log my workouts, track my improvements, and reflect on my experiences.
 
-This site serves as a single reference for potential partners, collaborators, fellow experts or learners.
-Our garden unifies our company vision and technical documentation. 
-This allows us to continually iterate and produce amazing products;
-And to give back to an open-source community that has been at the heart of this project.
+My motivation for this website is two-fold:
+1. Accountability - I want to take my own life to the next level. 
+2. Mentorship - I have less pain in my body, and I want to share as a source of motivation and learning for others. 
 
-## Our Flagship Project: [[ISS Appointment Setter]]
-We're excited to introduce our groundbreaking project, the ISS Appointment Setter. It leverages cutting-edge AI technology to provide:
+Here are my own goals that are quite far-reaching, but sincere nonetheless:
+- [ ] A Baki-like body
+- [ ] Finger handstand pushup
+- [ ] 540 all ways on a snowboard 
+- [ ] bmx - pop out of a bowl
+- [ ] A tumbling routine with a split kick flip
 
-- **Real-time Speech-to-Speech Conversations**: No separate ASR or TTS models needed.
-- **"Talking while Thinking"**: Generates responses in real-time, reducing perceived latency.
-- **Streaming Audio Output**: Enhances user experience with immediate feedback.
-- **Batch Inference**: Boosts performance for audio-to-text and audio-to-audio tasks.
+As a final thought, I am thankful for inspiration from the book "Overcoming Gravity: A Systematic Approach to Gymaistcs and BodyWeight Strength" by Steven Low.  
+As Steven points out, much of what is done at the gym are beach-body exercises, which is great; but also incomplete. 
+In order to have long-term lack of body pain, and to improve in personal abilities, calisthenics are fundamental.  
+Calisthenics are iterative - in that as you dedicate more time and effort, exercises become more interesting, and strenght adn abilities increase. 
+By abilities, i mean to have the flexibility, strength, and basic body awareness to take whatever sport you enjoy to the next level;
+or, to just not be in pain during your day-to-day. 
 
-## Why Collaborate with Us?
-ISS builds upon latest DevOps best practices, with a bias towards cloud-native practices.  
-This means we seek for a simplified developer experience, while also keeping our apps stable, scalable, and secure.
-We're using open-source technology to overcome current market limitations in real-time AI conversations.
+With that being said, here is my progress week to week:
 
-We aim to build systems that enable:
-- **Cost-Efficiency**: Our approach significantly reduces costs for both us and our clients.
-- **Full Control**: We do our best to manage everything in-house, from our application to LLM model hosting.
-- **Continuous Improvement**: With full control over our tech stack, we rapidly iterate based on real-world feedback.
+[[Cali-count September 2024 | September 2024]]
+### Week 2 (September 30 - October 4, 2024)
 
-## Join Our Journey
-Whether you're a potential collaborator, client, or fellow expert in AI and software development, we invite you to explore our digital garden. Discover our innovative approach, learn about our technology stack, and see how we're shaping the future of intelligent staffing systems.
+- [Monday's Workout](September/Week2/Monday.md)
+- [Tuesday's Workout](September/Week2/Tuesday.md)
+- [Wednesday's Workout](September/Week2/Wednesday.md)
+- [Thursday's Workout](September/Week2/Thursday.md)
+- [Friday's Workout](September/Week2/Friday.md)
 
-Let's cultivate the future of intelligent staffing systems, one appointment at a time.
-### Contact 
-Email: lucas.draney@intelligentstaffingsystems.com
-LinkedIn: https://www.linkedin.com/company/104469233/admin/dashboard/
-GitHub: https://github.com/intelligent-staffing-systems
+[Week 2 Reflections](September/Week2/Reflections.md)
+
+[Monthly Overview](September/Overview.md)jjjjjjjjjjjjjjjjjj
+

@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Configuration
-OBSIDIAN_DIR="$HOME/projects/obsidian-personal/iss-digital-garden"
-QUARTZ_DIR="$HOME/projects/iss-digital-garden"
+OBSIDIAN_DIR="$HOME/projects/obsidian-personal/cali-count"
+QUARTZ_DIR="$HOME/projects/calisthenics-training"
 QUARTZ_CONTENT_DIR="$QUARTZ_DIR/content"
 
 # Ensure the Quartz content directory exists
