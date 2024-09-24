@@ -24,7 +24,3 @@ title: September 2024 - Week 1
 
 ## Weekend Rest (starts Friday night :))
 
-***
-## Additional Notes / Journal
-[[why I like to sleep on the floor]] - coming soon
-[[how i prepare my daily water]] - coming soon
