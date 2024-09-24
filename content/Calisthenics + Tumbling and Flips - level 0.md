@@ -1,10 +1,5 @@
 ---
 title: Calisthenics + Tumbling and Flips
-description: 
-aliases: []
-tags: []
-draft: true
-date: 2024-09-17
 ---
 ## Warm-up (15 minutes)
 - Light jogging (5 minutes)

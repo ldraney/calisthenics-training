@@ -1,10 +1,5 @@
 ---
 title: Free Weights and Cables + Snowboarding Spin Training
-description: 
-aliases: []
-tags: []
-draft: true
-date: 2024-09-17
 ---
 ## Warm-up (10 minutes)
 - 5 minutes light cardio (jump rope or jogging)

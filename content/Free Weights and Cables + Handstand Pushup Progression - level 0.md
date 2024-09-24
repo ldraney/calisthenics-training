@@ -1,10 +1,5 @@
 ---
 title: Free Weights and Cables + Handstand Pushup Progression - level 0
-description: 
-aliases: []
-tags: []
-draft: true
-date: 2024-09-17
 ---
 ## Warm-up (10 minutes)
 - 5 minutes light cardio (rowing machine or stationary bike)

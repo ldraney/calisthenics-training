@@ -1,10 +1,5 @@
 ---
 title: Calisthenics + Martial Arts and Weapon Training
-description: 
-aliases: []
-tags: []
-draft: true
-date: 2024-09-17
 ---
 ## Warm-up (15 minutes)
 - Light jogging or shadow boxing (5 minutes)
