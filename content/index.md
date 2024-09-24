@@ -3,6 +3,7 @@ title: My Calisthenics Journey
 ---
 
 [[Cali-count September 2024 - Week 1|My Current Routine]] 
+
 [[My Calisthenics Progress]]
 
 Welcome to my personal calisthenics progress tracker. This page documents my journey as I build strength, flexibility, and endurance through body-weight exercises. Join me as I log my workouts, track my improvements, and reflect on my experiences.
