@@ -1,5 +1,5 @@
 ---
-title: Free Weights and Cables + Handstand Pushup Progression
+title: Free Weights and Cables + Handstand Pushup Progression - level 0
 description: 
 aliases: []
 tags: []
